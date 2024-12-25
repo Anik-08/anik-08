@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Anik Tiwary</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-- 🌱 I’m currently learning **django**
+[![Spotify](https://spotify-now-playing.vercel.app/api/spotify)](https://open.spotify.com/user/ry6axiku4lp06ox92nxs2v3j1)
+
 
 - 📫 How to reach me **anik.tiwary08@gmail.com**
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
