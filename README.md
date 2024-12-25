@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anik Tiwary</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-[![Spotify](spotify-now-playing-fbfjutrg7-anik-tiwarys-projects.vercel.app)](https://open.spotify.com/user/ry6axiku4lp06ox92nxs2v3j1)
+[![Spotify](https://spotify-now-playing.vercel.app/api/spotify)](https://open.spotify.com/user/ry6axiku4lp06ox92nxs2v3j1)
 
 
 - 📫 How to reach me **anik.tiwary08@gmail.com**
