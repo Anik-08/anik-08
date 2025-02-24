@@ -23,6 +23,7 @@
     <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Anik-08&show_icons=true&count_private=true&hide_border=true&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&bg_color=0d1117" alt="Anik's Stats" /> 
     <img width="49%" height="195px" src="https://github-readme-streak-stats.vercel.app/?user=Anik-08&hide_border=true&stroke=6C63FF&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakNum=FFFFFF&currStreakLabel=6C63FF&sideNums=FFFFFF&sideLabels=6C63FF" alt="Streak Stats" />
 
+
 </div>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anik-08&layout=compact&hide_border=true&title_color=6C63FF&text_color=c9d1d9&bg_color=0d1117" />
