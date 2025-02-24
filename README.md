@@ -1,8 +1,6 @@
-<h1 align="center">Hi 👋, I'm Anik Tiwary</h1>
-<h3 align="center">A passionate web developer from India</h3>
+![Profile Views](https://komarev.com/ghpvc/?username=Anik-08&color=blueviolet&style=flat-square&label=Profile+Views&base=500)
 
-[![Spotify](https://spotify-now-playing-psi-gilt.vercel.app/api/spotify)](https://open.spotify.com/user/ry6axiku4lp06ox92nxs2v3j1)
-
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Anik-08&show_icons=true&count_private=true&hide_border=true&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&bg_color=0d1117" alt="Anik Tiwary's Stats" />
 
 - 📫 How to reach me **anik.tiwary08@gmail.com**
   
