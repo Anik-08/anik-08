@@ -4,4 +4,18 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anik-08&layout=compact&hide_border=true&title_color=6C63FF&text_color=c9d1d9&bg_color=0d1117" />
 
-<img src="https://raw.githubusercontent.com/Anik-08/Anik-08/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+
+<!-- Connect Section -->
+<h2 align="center">🌐 Let's Connect</h2>
+<p align="center">
+    <a href="mailto:anik.tiwary08@gmail.com">
+        <img src="https://img.shields.io/badge/Email-Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="(https://www.linkedin.com/in/anik-tiwary/)">
+        <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://instagram.com/anik_tiwary08">
+        <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    </a>
+</p>
