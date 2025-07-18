@@ -36,9 +36,9 @@
 <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind," />
 <br/>
 <!-- Backend & Database -->
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=django,nodejs,express,mongodb,mysql" />
 <!-- Tools & Others -->
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,gcp" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,gcp" />
 
 <br/><br/>
 
