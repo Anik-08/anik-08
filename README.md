@@ -1,15 +1,13 @@
 <div align="center">
 
-<!-- Profile Views with modern styling -->
-<img src="https://komarev.com/ghpvc/?username=Anik-08&color=gradient&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+<!-- Profile Views with fixed URL -->
+<img src="https://komarev.com/ghpvc/?username=Anik-08&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
 <!-- Modern Hero Section -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Anik%20Tiwary&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35" />
 
-<!-- Dynamic Typing with modern text -->
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&duration=2500&pause=600&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=600&lines=👋+Hey+there!+I'm+Anik;💻+Full+Stack+Developer;🚀+Tech+Innovator;🤖+AI%2FML+Enthusiast;✨+Building+Tomorrow" alt="Typing SVG" />
-</a>
+<!-- Fixed Dynamic Typing -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&duration=2500&pause=600&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=600&lines=%F0%9F%91%8B+Hey+there!+I'm+Anik;%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%9A%80+Tech+Innovator;%F0%9F%A4%96+AI%2FML+Enthusiast;%E2%9C%A8+Building+Tomorrow" alt="Typing SVG" />
 
 <br/>
 
@@ -86,9 +84,6 @@ const anik = {
 };
 ```
 </details>
-
-<!-- Snake Animation -->
-<img src="https://raw.githubusercontent.com/Anik-08/Anik-08/output/snake.svg" alt="Snake animation" />
 
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" />
