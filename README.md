@@ -1,54 +1,96 @@
-![Profile Views](https://komarev.com/ghpvc/?username=Anik-08&color=blueviolet&style=flat-square&label=Profile+Views&base=500)
-
-<!-- Animated Name Banner -->
 <div align="center">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Hi!+I'm+Anik+Tiwary+%F0%9F%91%8B;Web+Developer+%F0%9F%92%BB;Tech+Enthusiast+%F0%9F%9A%80;AIML+Passionate+%F0%9F%A4%96;Building+the+Future+%E2%9C%A8;" alt="Typing SVG" />
-    </a>
+
+<!-- Profile Views with modern styling -->
+<img src="https://komarev.com/ghpvc/?username=Anik-08&color=gradient&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+
+<!-- Modern Hero Section -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Anik%20Tiwary&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35" />
+
+<!-- Dynamic Typing with modern text -->
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&duration=2500&pause=600&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=600&lines=👋+Hey+there!+I'm+Anik;💻+Full+Stack+Developer;🚀+Tech+Innovator;🤖+AI%2FML+Enthusiast;✨+Building+Tomorrow" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Modern Status Badges -->
+<img src="https://img.shields.io/badge/🔥_Currently_Building-Web_Apps-FF6B6B?style=for-the-badge&labelColor=1a1a1a" />
+<img src="https://img.shields.io/badge/🎯_Focus-AI%2FML-4ECDC4?style=for-the-badge&labelColor=1a1a1a" />
+<img src="https://img.shields.io/badge/📍_Based_In-India-45B7D1?style=for-the-badge&labelColor=1a1a1a" />
+
+<br/><br/>
+
+<!-- GitHub Stats with modern cards -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anik-08&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_radius=15" />
+<img height="180em" src="https://streak-stats.demolab.com/?user=Anik-08&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FFA500&currStreakNum=FFFFFF&sideNums=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=C9D1D9&border_radius=15" />
+
+<!-- Language Stats with modern styling -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anik-08&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=15&langs_count=8" />
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anik-08&custom_title=Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area_color=58A6FF&area=true&hide_border=true&radius=15" />
+
+<br/><br/>
+
+<!-- Tech Stack Icons -->
+<h2>🛠️ Tech Arsenal</h2>
+
+<!-- Programming Languages -->
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c" />
+<br/>
+<!-- Frontend -->
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" />
+<br/>
+<!-- Backend & Database -->
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,firebase" />
+<br/>
+<!-- Tools & Others -->
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,aws" />
+
+<br/><br/>
+
+<!-- Modern Connect Section with Icons -->
+<h2>🌐 Let's Connect & Collaborate</h2>
+
+<a href="mailto:anik.tiwary08@gmail.com">
+    <img src="https://img.shields.io/badge/📧-anik.tiwary08@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a" />
+</a>
+<br/>
+<a href="https://www.linkedin.com/in/anik-tiwary/">
+    <img src="https://img.shields.io/badge/💼-Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a" />
+</a>
+<br/>
+<a href="https://instagram.com/anik_tiwary08">
+    <img src="https://img.shields.io/badge/📸-Follow_on_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1a1a" />
+</a>
+<br/>
+<a href="https://github.com/Anik-08">
+    <img src="https://img.shields.io/badge/⭐-Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" />
+</a>
+
+<br/><br/>
+
+<!-- Fun Facts Section -->
+<details>
+<summary>🎯 Fun Facts About Me</summary>
+<br/>
+
+```javascript
+const anik = {
+    pronouns: "He/Him",
+    location: "India 🇮🇳",
+    currentFocus: ["Web Development", "AI/ML", "Open Source"],
+    askMeAbout: ["Web Dev", "Tech", "AI", "Coffee ☕"],
+    funFact: "I debug with console.log and I'm not ashamed! 😄",
+    lifePhilosophy: "Code, Learn, Repeat 🔄"
+};
+```
+</details>
+
+<!-- Snake Animation -->
+<img src="https://raw.githubusercontent.com/Anik-08/Anik-08/output/snake.svg" alt="Snake animation" />
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" />
+
 </div>
-
-<!-- Divider -->
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
-
-<!-- Quick Info -->
-<p align="center">
-    <img src="https://img.shields.io/badge/💻_Web_Developer-Active-FF4B4B?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🚀_Tech_Innovator-Passionate-00C7B7?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🤖_AIML_Enthusiast-Learning-6C63FF?style=for-the-badge" />
-</p>
-
-<!-- Stats Dashboard -->
-<div align="center">
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Anik-08&show_icons=true&count_private=true&hide_border=true&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&bg_color=0d1117" alt="Anik's Stats" /> 
-    <img width="49%" height="195px" src="https://streak-stats.demolab.com/?user=Anik-08&hide_border=true&stroke=6C63FF&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakNum=FFFFFF&currStreakLabel=6C63FF&sideNums=FFFFFF&sideLabels=6C63FF&dates=FFFFFF" alt="Streak Stats" />
-</div>
-
-<!-- Top Languages -->
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anik-08&layout=compact&hide_border=true&title_color=6C63FF&text_color=c9d1d9&bg_color=0d1117" />
-</div>
-
-<!-- Connect Section -->
-<h2 align="center">🌐 Let's Connect</h2>
-<p align="center">
-    <a href="mailto:anik.tiwary08@gmail.com">
-        <img src="https://img.shields.io/badge/Email-Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://www.linkedin.com/in/anik-tiwary/">
-        <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="https://instagram.com/anik_tiwary08">
-        <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-    </a>
-</p>
-
-<!-- Footer -->
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-<p align="center">
-    <i>⭐ From <a href="https://github.com/Anik-08">Anik-08</a></i>
-</p>
