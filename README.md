@@ -45,25 +45,10 @@
 <!-- Modern Connect Section with Icons -->
 <h2>🌐 Let's Connect & Collaborate</h2>
 
-<a href="mailto:anik.tiwary08@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="40" height="40" />
-    <span style="margin-left: 10px; color: #EA4335; font-weight: bold;">anik.tiwary08@gmail.com</span>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/anik-tiwary/">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="40" height="40" />
-    <span style="margin-left: 10px; color: #0A66C2; font-weight: bold;">LinkedIn</span>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/anik_tiwary08">
-    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="40" height="40" />
-    <span style="margin-left: 10px; color: #E4405F; font-weight: bold;">Instagram</span>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/Anik-08">
-    <img src="https://skillicons.dev/icons?i=github&theme=dark" width="40" height="40" />
-    <span style="margin-left: 10px; color: #181717; font-weight: bold;">GitHub</span>
-</a>
+<a href="mailto:anik.tiwary08@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45" height="45" /></a>
+<a href="https://www.linkedin.com/in/anik-tiwary/"><img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" /></a>
+<a href="https://instagram.com/anik_tiwary08"><img src="https://skillicons.dev/icons?i=instagram" width="45" height="45" /></a>
+<a href="https://github.com/Anik-08"><img src="https://skillicons.dev/icons?i=github" width="45" height="45" /></a>
 <br/><br/>
 
 <!-- Fun Facts Section -->
