@@ -19,7 +19,7 @@
 <br/><br/>
 
 <!-- GitHub Stats using the official service -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anik-08&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_radius=15" />
+
 <img height="180em" src="https://streak-stats.demolab.com/?user=Anik-08&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FFA500&currStreakNum=FFFFFF&sideNums=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=C9D1D9&border_radius=15" />
 
 <!-- Top Languages -->
@@ -32,15 +32,13 @@
 
 <!-- Programming Languages -->
 <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c" />
-<br/>
 <!-- Frontend -->
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind," />
 <br/>
 <!-- Backend & Database -->
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,firebase" />
-<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 <!-- Tools & Others -->
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,aws" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,gcp" />
 
 <br/><br/>
 
@@ -48,21 +46,20 @@
 <h2>🌐 Let's Connect & Collaborate</h2>
 
 <a href="mailto:anik.tiwary08@gmail.com">
-    <img src="https://img.shields.io/badge/📧-anik.tiwary08@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a" />
+    <img src="https://skillicons.dev/icons?i=gmail" width="50" height="50" />
 </a>
-<br/>
+&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/anik-tiwary/">
-    <img src="https://img.shields.io/badge/💼-Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50" />
 </a>
-<br/>
+&nbsp;&nbsp;
 <a href="https://instagram.com/anik_tiwary08">
-    <img src="https://img.shields.io/badge/📸-Follow_on_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1a1a" />
+    <img src="https://skillicons.dev/icons?i=instagram" width="50" height="50" />
 </a>
-<br/>
+&nbsp;&nbsp;
 <a href="https://github.com/Anik-08">
-    <img src="https://img.shields.io/badge/⭐-Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" />
+    <img src="https://skillicons.dev/icons?i=github" width="50" height="50" />
 </a>
-
 <br/><br/>
 
 <!-- Fun Facts Section -->
